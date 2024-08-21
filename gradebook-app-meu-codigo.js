@@ -36,46 +36,21 @@ function getGrade(score) {
 //console.log(getGrade(56));
 
 
-
-
 // Step 3
 function hasPassingGrade(score) {
-  if (getGrade(score) != "F") {
+  if (getGrade(score) !== "F") {
     return true;
   } else {
     return false;
   }
 }
 
-console.log(hasPassingGrade(100));
-console.log(hasPassingGrade(53));
-console.log(hasPassingGrade(87));
-
+// console.log(hasPassingGrade(100));
+// console.log(hasPassingGrade(53));
+// console.log(hasPassingGrade(87));
 
 
 // Step 4
-
-/* 
-function getGrade(score) {
-  if (score === 100) {
-    return "A++";
-  } else if (score >= 90) {
-    return "A";
-  } else if (score >= 80) {
-    return "B";
-  } else if (score >= 70) {
-    return "C";
-  } else if (score >= 60) {
-    return "D";
-  } else {
-    return "F";
-  }
-}
-
-function hasPassingGrade(score) {
-  return getGrade(score) !== "F";
-}
-
 function studentMsg(totalScores, studentScore) {
   if (hasPassingGrade(studentScore) === true) {
     return "Class average: " + getAverage(totalScores) + ". " + "Your grade: " + getGrade(studentScore) + ". " + "You passed the course.";
@@ -84,6 +59,3 @@ function studentMsg(totalScores, studentScore) {
   }
 }
 console.log(studentMsg([92, 88, 12, 77, 57, 100, 67, 38, 97, 89], 77));
-
-
-*/
