@@ -1,5 +1,4 @@
-/*
-Solução freeCodeCamp
+// Step 1
 function getAverage(scores) {
   let sum = 0;
 
@@ -9,11 +8,9 @@ function getAverage(scores) {
 
   return sum / scores.length;
 }
-*/
 
-/*
-Soluçao freeCodeCamp
 
+// Step 2
 function getGrade(score) {
   if (score === 100) {
     return "A++";
@@ -29,12 +26,9 @@ function getGrade(score) {
     return "F";
   }
 }
-*/
 
-/*
-Solução freeCodeCamp
 
+// Step 3
 function hasPassingGrade(score) {
   return getGrade(score) !== "F";
 }
-*/
