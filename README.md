@@ -1,22 +1,22 @@
 ![Badge](https://img.shields.io/badge/freeCodeCamp-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# JavaScript Algorithm and Data Structures Certification #02 | Gradebook App
+# JavaScript Algorithms and Data Structures Certification #02 | Gradebook App
 
 ## 1️⃣ Objetivo
 Desenvolver um aplicativo simples de boletim de notas para reforçar os fundamentos do JavaScript.
 
 ## 2️⃣ Descrição
-Este é o segundo curso da trilha *JavaScript Algorithm and Data Structures Certification*.
+Este é o segundo curso da trilha **JavaScript Algorithms and Data Structures Certification**.
 
 No projeto, revisamos conceitos básicos como:
-- Variáveis;
-- Funções;
-- Condicionais.
+- Variáveis
+- Funções
+- Condicionais
 
 Apesar de ser um exercício simples, ele é excelente para consolidar o aprendizado inicial da linguagem.
 
 ## 3️⃣ Principais Modificações
-Criei uma página HTML para registrar informações importantes do curso e também uma página de estilo para personalizá-la.
+Criei uma página HTML para registrar informações importantes do tutorial e um arquivo CSS para personalizá-la.
 
 ## 4️⃣ Tecnologias Utilizadas
 
@@ -31,7 +31,7 @@ Criei uma página HTML para registrar informações importantes do curso e tamb�
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
